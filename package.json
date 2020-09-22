@@ -1,0 +1,24 @@
+{
+  "name": "weather-backend",
+  "version": "1.0.0",
+  "description": "Weather App Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AdrianZelada/weather-app-backend.git"
+  },
+  "keywords": [
+    "weather",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Adrian Pedro Zelada Torrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianZelada/weather-app-backend/issues"
+  },
+  "homepage": "https://github.com/AdrianZelada/weather-app-backend#readme"
+}
