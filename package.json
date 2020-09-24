@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AdrianZelada/weather-app-backend/issues"
   },
-  "homepage": "https://github.com/AdrianZelada/weather-app-backend#readme"
+  "homepage": "https://github.com/AdrianZelada/weather-app-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
